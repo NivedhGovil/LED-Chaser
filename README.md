@@ -1,8 +1,10 @@
 ## LED Chaser
 
-This project is an **LED Chaser**: a PCB that lights up a series of 10 LEDs in a sequence. 
+This project is an **LED Chaser**: a series of 10 LEDs that light up in a sequence. 
 
 ## In this repository
-BOM.txt : Bill of Materials, all parts required and their descriptions. 
-Schematic : The schematic of all components
-PCB : A folder containing the zipped Gerber file. 
+BOM.txt : Bill of Materials, all parts required and their descriptions.  <br> 
+Schematic : The schematic of all components in a pdf and a screenshot <br> 
+PCB : A folder containing: <br> 
+<li> the zipped Gerber file. </li>
+<li> A screenshot of the PCB </li>
