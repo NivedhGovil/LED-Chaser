@@ -9,3 +9,4 @@ PCB : A folder containing: <br>
 <li> A screenshot of the PCB </li>
 <li> The schematic of all components in a pdf </li> 
 
+<img width="399" height="562" alt="image" src="https://github.com/user-attachments/assets/a2646853-cad8-4c14-9a3e-04fc21f52e48" />
