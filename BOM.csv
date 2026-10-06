@@ -1,0 +1,13 @@
+Item Name,Qty,Price (total) (USD),Item link,Notes
+"NE555P timer IC, DIP-8 (U1)",1,1.33,https://www.lcsc.com/product-detail/C46749.html,"TI NE555P, LCSC C46749. Min order 5 @ $0.2667."
+"CD4017 decade counter, DIP-16 (U3)",1,0.18,https://www.lcsc.com/product-detail/C51939979.html,"Design specifies CD4017BCN, which has no LCSC part. TI CD4017BE (C34519) is currently not available, so this uses the pin-compatible CD4017DA16.TB (C51939979) at $0.1791. Check its minimum order before buying."
+"White LED, 5mm through-hole (LED1-LED10)",10,0.54,https://www.lcsc.com/product-detail/C2895480.html,"XINGLIGHT XL-502UWC, LCSC C2895480. Min order 20 @ $0.0271."
+"Resistor 1k, 1/4W metal film (R1)",1,0.53,https://www.lcsc.com/product-detail/C713997.html,"MF1/4W-1K 1%, LCSC C713997. Min order 50 @ $0.0105."
+"Resistor 470 ohm, 1/4W metal film (R2)",1,0.59,https://www.lcsc.com/product-detail/C58592.html,"UNI-ROYAL MFR0W4F4700A50, LCSC C58592. Min order 50 @ $0.0117."
+"Trimmer pot 50k, 3296X multi-turn (R3)",1,0.97,https://www.lcsc.com/product-detail/C118912.html,"BOCHEN 3296X-1-503, LCSC C118912. Min order 5 @ $0.1947. Only 95 in stock; 3296W-1-503 (C118911) is the same part with the screw on top."
+"Electrolytic capacitor 1uF 50V, 5mm (C1)",1,0.54,https://www.lcsc.com/product-detail/C62934.html,"CapXon KF010M050C110A, LCSC C62934. OUT OF STOCK; price is LCSC's reference for 20 pcs. Any 1uF 16V+ radial electrolytic with 2mm lead spacing will fit."
+"Ceramic capacitor 10nF (0.01uF), 5mm pitch (C2)",1,0.8,https://www.lcsc.com/product-detail/C249157.html,"STE N09F1B103MN0B0S0N0, LCSC C249157. Min order 20 @ $0.0402."
+"Pin header 1x2, 2.54mm (H1, VCC/GND)",1,0.9,https://www.lcsc.com/product-detail/C492401.html,"XFCN PZ254V-11-02P, LCSC C492401. Min order 50 @ $0.0179."
+"Pin header 1x1, 2.54mm (CLK test point)",1,0.64,https://www.lcsc.com/product-detail/C81276.html,"BOOMELE 2.54-1*1P, LCSC C81276. Min order 50 @ $0.0128."
+,,,,
+Total Price (USD):,,7.02,,"Prices are LCSC USD on 5 Oct 2026 at minimum order quantity, excluding shipping, taxes, and the PCB itself."
