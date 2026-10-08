@@ -1,4 +1,4 @@
-## Journal
+Journal
 
 ## Day 1
 I brainstormed what the project's goal is. <br> 
@@ -8,12 +8,14 @@ I used EasyEDA. I made a list of the components I needed, then I placed them ont
 
 
 ## Day 2
-Wire all the components together.  <br> 
+Wire all the components together. I used online resources to figure out what to wire with what and it took me a long time to do it. <br> 
 <img width="353" height="236" alt="image" src="https://github.com/user-attachments/assets/5ddb9600-db9a-4aeb-ad60-631bb8be5bd8" />
 
 
 ## Day 3
-I started designing the PCB. I uploaded the schematic onto the PCB and assigned footprints. I also started to make the board outline. 
+Designing the PCB. For that, I uploaded the schematic onto the PCB and assigned footprints. I also started to make the board outline. I used the rectangular design tool. 
+<img width="104" height="102" alt="image" src="https://github.com/user-attachments/assets/b19774e3-0796-44d8-9e7e-884c7262532b" />
+
 
 ## Day 4
 For the board outline, I got a better idea. I would make the board Mjolnir (Thor's hammer) shaped.  <br> 
@@ -21,7 +23,6 @@ I found a good image, converted it to a .dxf file imported this onto the PCB edi
 After trying multiple times, I used another way to import and it involved importing it into a certain layer, not just into the default mode. 
 
 <br> 
-
 <img width="136" height="165" alt="image" src="https://github.com/user-attachments/assets/0e4c3e99-3431-4b29-9a89-2fafe1bd74d7" />
 <br> 
 <img width="121" height="155" alt="image" src="https://github.com/user-attachments/assets/94beef0e-e1ed-4706-9a8b-035c5745f3ec" />
@@ -29,7 +30,7 @@ After trying multiple times, I used another way to import and it involved import
 
 
 ## Day 5
-Route all components. <br> 
+Route all components. Pressing w and clicking on one component, then drawing the route to the connect-to component. <br> 
 <img width="578" height="251" alt="image" src="https://github.com/user-attachments/assets/0cd20a28-8e12-4b23-b721-8fc51227d0d0" />
 
 
