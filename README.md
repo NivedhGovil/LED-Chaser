@@ -17,6 +17,6 @@ This is my first PCB and it was an insighting experience. I learnt routing, vias
 
 
 <img width="399" height="562" alt="image" src="https://github.com/user-attachments/assets/a2646853-cad8-4c14-9a3e-04fc21f52e48" />
-
+<br> 
 <img width="1169" height="828" alt="Schematic" src="https://github.com/user-attachments/assets/889f61e3-1a95-41cc-bbb8-1bca964cc888" />
 
