@@ -1,4 +1,4 @@
-Part Name,Qty,Price (total) (USD),Item link,Notes
+Part Name,Qty,Price  (USD),Item link,Notes
 "NE555P timer IC, DIP-8 (U1)",1,1.33,https://www.lcsc.com/product-detail/C46749.html,"TI NE555P, LCSC C46749. Min order 5 @ $0.2667."
 "CD4017 decade counter, DIP-16 (U3)",1,0.18,https://www.lcsc.com/product-detail/C51939979.html,"Design specifies CD4017BCN, which has no LCSC part. TI CD4017BE (C34519) is currently not available, so this uses the pin-compatible CD4017DA16.TB (C51939979) at $0.1791. Check its minimum order before buying."
 "White LED, 5mm through-hole (LED1-LED10)",10,0.54,https://www.lcsc.com/product-detail/C2895480.html,"XINGLIGHT XL-502UWC, LCSC C2895480. Min order 20 @ $0.0271."
