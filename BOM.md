@@ -23,7 +23,7 @@
 | Pin header 1x2, 2.54mm (H1, VCC/GND) | XFCN PZ254V-11-02P, LCSC C492401. Min order 50 @ $0.0179. | 1 | $0.90 | $0.90 | — |
 | Pin header 1x1, 2.54mm (CLK test point) | BOOMELE 2.54-1*1P, LCSC C81276. Min order 50 @ $0.0128. | 1 | $0.64 | $0.64 | — |
 | **Parts subtotal** | — | — | — | **$11.88** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$11.88** | — |
+| **Tax & shipping** | — | — | — | **$7.02** | — |
+| **Total** | — | — | — | **$18.90** | — |
 
-$18.12 left of the tier's funding.
+$11.10 left of the tier's funding.
