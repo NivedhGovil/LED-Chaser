@@ -3,7 +3,7 @@
 This project is an **LED Chaser**: a series of 10 LEDs that light up in a sequence. 
 
 ## In this repository
-BOM.csv : Bill of Materials, all parts required and their descriptions.  <br> 
+Bill Of Materials.csv : Bill of Materials, all parts required and their descriptions.  <br> 
 Journal.md: A journal on my progress with making this project. <br> 
 schematic.png: A screenshot of the Schematic <br> 
 PCB_PCB_LED-Chaser-New_2026-10-12.json: The EasyEDA export of the PCB in json <br> 
