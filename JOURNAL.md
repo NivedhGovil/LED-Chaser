@@ -59,6 +59,7 @@ Added a description of the PCB on the underside layer. This will help me to reme
 
 ### 2026-10-05 – Worked on improving the PCB as they were some minor changes of changing one component's value/name. I also dove deep into the components and understood then well.
 
+
 **1h**
 
 Worked on improving the PCB as they were some minor changes of changing one component's value/name. I also dove deep into the components and understood then well.
